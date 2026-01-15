@@ -1,7 +1,6 @@
 # =================================================================
-# ANEXO: Análise de Regressão Dirichlet e Predição Conformal (SEM CVXR)
-# (tau fechado + uniroot + NA->0) + build_triangle_grid estável (da simulação)
-# OBS: NÃO MUDA a forma de avaliação dos métodos (mesmas regras de cobertura/largura).
+# ANEXO: Análise de Regressão Dirichlet e Predição Conformal
+# (tau fechado + uniroot + NA->0) + build_triangle_grid estável
 # =================================================================
 
 rm(list = ls())
