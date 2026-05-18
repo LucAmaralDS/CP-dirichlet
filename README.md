@@ -11,8 +11,6 @@ Este repositório contém códigos em R para análise de dados composicionais ut
 
 ├── sleep-data.R # Script de análise de sono e predição conforme (4 componentes)
 
-├── Figuras/ # Figuras HDR 3D e ternário para visualização
-
 ├── README.md # Este arquivo
 
 
@@ -23,15 +21,16 @@ install.packages(c(
   "DirichletReg", "progress", "tidyverse", 
   "ggtern", "gridExtra", "grid", "viridis", "readxl", "dplyr"
 ))
-
+```
 Como Executar:
 Abra R ou RStudio no diretório do projeto.
 Instale os pacotes listados acima.
 Execute os scripts:
 
+```r
 source("aplicacao-biomass.R")  # Análise de biomassa
 source("sleep-data.R")         # Análise de sono
-
+```
 
 Os resultados e diagnósticos serão exibidos no console.
 
