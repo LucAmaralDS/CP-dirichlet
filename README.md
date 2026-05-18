@@ -35,7 +35,7 @@ source("sleep-data.R")         # Análise de sono
 
 Os resultados e diagnósticos serão exibidos no console.
 
-Referências
+## **Referências**
 Hyndman, R.J. (1996). Computing and Graphing Highest Density Regions.
 Vovk, V., Gammerman, A., & Shafer, G. (2005). Algorithmic Learning in a Random World.
 Lei, J., et al. (2018). Distribution-Free Predictive Inference for Regression.
