@@ -4,10 +4,15 @@ Este repositório contém códigos em R para análise de dados composicionais ut
 
 ## Estrutura do Repositório
 ├── R6data.csv # Dados experimentais com 3 componentes (LMF, SMF, RMF)
+
 ├── aplicacao-biomass.R # Script principal para análise de biomassa (3 componentes)
+
 ├── dados-boot.xlsx # Dados de sono com 4 componentes (N1, N2, N3, REM)
+
 ├── sleep-data.R # Script de análise de sono e predição conforme (4 componentes)
+
 ├── Figuras/ # Figuras HDR 3D e ternário para visualização
+
 ├── README.md # Este arquivo
 
 
